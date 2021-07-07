@@ -8,11 +8,10 @@ This lab was altered from the source material [here](https://git.generalassemb.l
 
 ## Directions
 
-Complete these problems on your local machine. When you think you have the answer to one of the problems run it locally with the `node` command. For example:
+Complete these problems on your local machine. 
+You will need to set up an `index.html` file and link a js file in a `<script>`
 
-```
-node solution.js
-```
+When you think you have the answer to one of the problems run it locally in your browser and look in the browser console for your results.
 
 ## Get Even
 
@@ -23,7 +22,7 @@ node solution.js
 
 ## Excited Kitten
 
-1. Write code that logs "Love me, pet me! HSSSSSS!" 10 times.
+1. Write a loop that logs "Love me, pet me! HSSSSSS!" 10 times.
 
 2. For every **even** number in your loop, log "...human...why you taking pictures of me?...", "...the catnip made me do it...", "meow?", or "...why does the red dot always get away..." at random.
 
@@ -35,7 +34,7 @@ node solution.js
 
 1. Declare a variable called `currentTemp` that stores the current temperature. Set this to a random whole number between 1 and 100. 
 
-> Hint: Use `Math.random` then multiply by 100 - make sure to use `floor` or `rnd` to get a whole number
+> Hint: Use `Math.random()` then multiply by 100 - make sure to use `Math.floor()` to get a whole number
 
 2. Declare a variable called `desiredTemp` that is the temperature in Fahrenheit, that you personally like to relax at. (For most of us, this is between 68 and 72!)
 
@@ -55,7 +54,7 @@ The current temperature is now 25F
 
 <hr>
 
-## Fizz Buzz
+## BONUS: Fizz Buzz
 
 1. Write a javascript application that logs all numbers from 1 - 100.
 
