@@ -20,15 +20,6 @@ When you think you have the answer to one of the problems run it locally in your
 
 <hr>
 
-## Excited Kitten
-
-1. Write a loop that logs "Love me, pet me! HSSSSSS!" 10 times.
-
-2. For every **even** number in your loop, log "...human...why you taking pictures of me?...", "...the catnip made me do it...", "meow?", or "...why does the red dot always get away..." at random.
-
->Hint: You will need to use Math.random()
-
-<hr>
 
 ## Thermostat
 
@@ -54,15 +45,6 @@ The current temperature is now 25F
 
 <hr>
 
-## BONUS: Fizz Buzz
-
-1. Write a javascript application that logs all numbers from 1 - 100.
-
-2. If a number is divisible by 3 log "Fizz" instead of the number.
-
-3. If a number is divisible by 5 log "Buzz" instead of the number.
-
-4. If a number is divisible by 3 and 5 log "FizzBuzz" instead of the number.
 
 ## BONUS: What's My Number?
 
